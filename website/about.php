@@ -9,8 +9,7 @@
         <main>
             <h2>About</h2>
             <p>
-                I created this website to practice my web programming skills.  There are only four comics on here because 
-                I don't want to waste too much memory.  All the comics were drawn by me. 
+                I created this website to practice my web programming skills.
             </p>
         </main>
     </body>
